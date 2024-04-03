@@ -1,2 +1,2 @@
 1st Modification in file 1
-2nd Modification in file 1 (first Branch)
+2nd Modification in file 1 
